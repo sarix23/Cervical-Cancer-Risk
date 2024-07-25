@@ -1,6 +1,7 @@
 # Cervical Cancer Risk: A Case Study
 
 **Authors:** Giulia Saresini, Nicola Perani, Sara Nava
+
 **University of Milano-Bicocca – Master's Degree Program in Data Science**
 
 ## Overview
@@ -123,7 +124,7 @@ Future work will explore ensemble methods and further fine-tuning of models to e
 3. [Unbalanced Data vs. Balanced Data](https://matloff.wordpress.com/2015/09/29/unbalanced-data-is-a-problem-no-balanced-data-is-worse/)  
 4. [Imbalance Class Problem](https://stats.stackexchange.com/questions/227088/when-should-i-balance-classes-in-a-training-data-set)  
 5. [SMOTE Technique](https://www.blog.trainindata.com/overcoming-class-imbalance-with-smote/)  
-6. [Feature Scaling for SVM](https://forecast- egy.com/posts/does-svm-need-feature-scaling-or-normalization/)  
+6. [Feature Scaling for SVM](https://forecast-egy.com/posts/does-svm-need-feature-scaling-or-normalization/)  
 7. [Feature Scaling for Random Forest](https://forecastegy.com/posts/does-random-forest-need-feature-scaling-or-normalization/)  
 8. [Models Requiring Normalization](https://www.yourdatateacher.com/2022/06/13/which-models-require-normalized-data/)  
 9. [Ensemble Methods](https://corporatefinanceinstitute.com/resources/data-science/ensemble-methods/)  
