@@ -1,6 +1,6 @@
 # Cervical Cancer Risk: A Case Study
 
-**Authors:** Giulia Saresini (matr. 864967), Nicola Perani (matr. 864755), Sara Nava (matr. 870885)  
+**Authors:** Giulia Saresini, Nicola Perani, Sara Nava
 **University of Milano-Bicocca – Master's Degree Program in Data Science**
 
 ## Overview
